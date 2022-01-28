@@ -62,3 +62,16 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+
+# Environment Variables (Store safe defaults in .env.example!)
+.env
+
+# Jest
+.snap
+
+# Package Managers
+package-lock.json
+
+# Hardhat
+artifacts/
+cache/
